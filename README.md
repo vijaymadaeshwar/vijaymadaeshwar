@@ -111,7 +111,7 @@ I turn messy customer data into churn models, RFM segments, and insights that te
 ## 🌃 3D Contribution Skyline
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vijaymadaeshwar/vijaymadaeshwar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/vijaymadaeshwar/vijaymadaeshwar/main/profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" width="100%" />
 </div>
 
 ---

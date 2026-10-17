@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Data+Analyst+%7C+ML+%7C+Business+Intelligence;Turning+raw+data+into+business+decisions;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+PostgreSQL;Building+AI-powered+analytics+platforms" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijayamadaeshwar--mariappan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayamadaeshwar-mariappan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Vijayamadaeshwar-00C7B7?style=for-the-badge)](https://vijayamadaeshwar-portfolio.vercel.app)
 [![GitHub followers](https://img.shields.io/github/followers/vijaymadaeshwar?style=for-the-badge&logo=github&label=Follow&color=8B5CF6)](https://github.com/vijaymadaeshwar)
 [![Profile views](https://komarev.com/ghpvc/?username=vijaymadaeshwar&color=8B5CF6)](https://github.com/vijaymadaeshwar)
 
@@ -36,12 +37,6 @@ I turn messy customer data into churn models, RFM segments, and insights that te
 | 📊 Customer Decision Intelligence | 🤖 AURA Mini |
 |---|---|
 | RFM analysis, churn prediction & segmentation with **XGBoost + SHAP**, data in **PostgreSQL**, insights in **Power BI** | Closed-loop autonomous reliability agent: **Observe → Detect → Diagnose → Remediate → Verify** |
-
-**Also exploring the AI-agent frontier:**
-[fullstack-agent](https://github.com/vijaymadaeshwar/fullstack-agent) ·
-[backtalk](https://github.com/vijaymadaeshwar/backtalk) ·
-[barehands](https://github.com/vijaymadaeshwar/barehands) ·
-[ai-visualizer](https://github.com/vijaymadaeshwar/ai-visualizer)
 
 ---
 
@@ -111,7 +106,7 @@ I turn messy customer data into churn models, RFM segments, and insights that te
 ## ⚡ Right Now
 
 - 🚀 Shipping **Customer Decision Intelligence** — churn prediction + RFM + SHAP explainability
-- 🧪 Experimenting with **AI agents** (memory · voice · vision) via the fullstack-agent stack
+- 🧪 Experimenting with AI agents (memory · voice · vision)
 - 🎯 2026 goal: grow open-source analytics work & deepen **analytics engineering**
 
 ---

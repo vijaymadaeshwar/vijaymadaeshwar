@@ -108,6 +108,30 @@ I turn messy customer data into churn models, RFM segments, and insights that te
 
 ---
 
+## 🌃 3D Contribution Skyline
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vijaymadaeshwar/vijaymadaeshwar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</div>
+
+---
+
+## 📈 Metrics Dashboard
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vijaymadaeshwar/vijaymadaeshwar/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
+
+---
+
+## ⚡ Right Now
+
+- 🚀 Shipping **Customer Decision Intelligence** — churn prediction + RFM + SHAP explainability
+- 🧪 Experimenting with **AI agents** (memory · voice · vision) via the fullstack-agent stack
+- 🎯 2026 goal: grow open-source analytics work & deepen **analytics engineering**
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">

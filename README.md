@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijayamadaeshwar--mariappan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayamadaeshwar-mariappan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Vijayamadaeshwar-00C7B7?style=for-the-badge)](https://vijayamadaeshwar-portfolio.vercel.app)
+[![CDI Live Dashboard](https://img.shields.io/badge/CDI_Live_Dashboard-Open-28C76F?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://cdi-dashboard.vercel.app)
 [![GitHub followers](https://img.shields.io/github/followers/vijaymadaeshwar?style=for-the-badge&logo=github&label=Follow&color=8B5CF6)](https://github.com/vijaymadaeshwar)
 [![Profile views](https://komarev.com/ghpvc/?username=vijaymadaeshwar&color=8B5CF6)](https://github.com/vijaymadaeshwar)
 
@@ -36,7 +37,7 @@ I turn messy customer data into churn models, RFM segments, and insights that te
 
 | 📊 Customer Decision Intelligence | 🤖 AURA Mini |
 |---|---|
-| RFM analysis, churn prediction & segmentation with **XGBoost + SHAP**, data in **PostgreSQL**, insights in **Power BI** | Closed-loop autonomous reliability agent: **Observe → Detect → Diagnose → Remediate → Verify** |
+| RFM segmentation, churn prediction with **XGBoost + SHAP (AUC 0.74)** across **4,312 customers** in **PostgreSQL**, insights in **Power BI** — 🔴 **[live dashboard](https://cdi-dashboard.vercel.app)** | Closed-loop autonomous reliability agent: **Observe → Detect → Diagnose → Remediate → Verify** |
 
 ---
 

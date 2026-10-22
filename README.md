@@ -9,7 +9,6 @@
 [![Download Resume](https://img.shields.io/badge/Download_Resume-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/vijaymadaeshwar/vijaymadaeshwar/raw/main/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijayamadaeshwar--mariappan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayamadaeshwar-mariappan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Vijayamadaeshwar-00C7B7?style=for-the-badge)](https://vijayamadaeshwar-portfolio.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-PDF-E50914?style=for-the-badge&logo=readdotcv&logoColor=white)](https://vijayamadaeshwar-portfolio.vercel.app/resume.pdf)
 [![CDI Live Dashboard](https://img.shields.io/badge/CDI_Live_Dashboard-Open-28C76F?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://cdi-dashboard.vercel.app)
 [![Email](https://img.shields.io/badge/Email-mvijayamadaeshwar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvijayamadaeshwar@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=vijaymadaeshwar&color=8B5CF6)](https://github.com/vijaymadaeshwar)
@@ -107,7 +106,7 @@ Kamaraj College of Engineering & Technology · CGPA **7.72** · Graduated **2025
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=vijaymadaeshwar&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&border_radius=12&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6&label_color=8B5CF6" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=vijaymadaeshwar&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6&label_color=8B5CF6" alt="GitHub Stats" /></td>
     <td><img src="https://streak-stats.demolab.com?user=vijaymadaeshwar&theme=dark&hide_border=true&border_radius=12&ring=8B5CF6&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=6E7681" alt="GitHub Streak" /></td>
   </tr>
   <tr>
@@ -116,14 +115,8 @@ Kamaraj College of Engineering & Technology · CGPA **7.72** · Graduated **2025
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=vijaymadaeshwar&theme=onedark&no-frame=true&no-margin=false&column=7&margin-w=8" alt="Trophies" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaymadaeshwar&color=8b5cf6&bg_color=0d1117&custom_title=GitHub%20Activity" alt="Activity Graph" width="100%" />
-    </td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vijaymadaeshwar&theme=github_dark" alt="Commit Activity" /></td>
+    <td><img src="https://contrib.rocks/image?repo=vijaymadaeshwar/vijayamadaeshwar" alt="Contribution Graph" width="430" /></td>
   </tr>
 </table>
 </div>

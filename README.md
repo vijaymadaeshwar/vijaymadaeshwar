@@ -2,26 +2,43 @@
 
 # Hi, I'm Vijayamadaeshwar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Data+Analyst+%7C+ML+%7C+Business+Intelligence;Turning+raw+data+into+business+decisions;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+PostgreSQL;Building+AI-powered+analytics+platforms" alt="Typing SVG" />
+### Python Developer & Data Analyst
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=680&lines=Python+Developer+%7C+Data+Analyst;B.Tech+AI+%26+Data+Science;Python+%C2%B7+SQL+%C2%B7+PostgreSQL+%C2%B7+Power+BI;Turning+data+into+decisions+with+ML" alt="Typing SVG" />
+
+[![Download Resume](https://img.shields.io/badge/Download_Resume-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/vijaymadaeshwar/vijaymadaeshwar/raw/main/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijayamadaeshwar--mariappan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayamadaeshwar-mariappan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Vijayamadaeshwar-00C7B7?style=for-the-badge)](https://vijayamadaeshwar-portfolio.vercel.app)
 [![CDI Live Dashboard](https://img.shields.io/badge/CDI_Live_Dashboard-Open-28C76F?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://cdi-dashboard.vercel.app)
-[![GitHub followers](https://img.shields.io/github/followers/vijaymadaeshwar?style=for-the-badge&logo=github&label=Follow&color=8B5CF6)](https://github.com/vijaymadaeshwar)
+[![Email](https://img.shields.io/badge/Email-mvijayamadaeshwar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvijayamadaeshwar@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=vijaymadaeshwar&color=8B5CF6)](https://github.com/vijaymadaeshwar)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Professional Summary
 
-I'm a **Data Analyst** who builds **AI-powered decision systems** — not just dashboards.
-I turn messy customer data into churn models, RFM segments, and insights that teams can actually act on.
+**Python Developer & Data Analyst** and B.Tech graduate in **Artificial Intelligence & Data Science**, with project experience building Python-based analytics and machine-learning solutions. Skilled in **Python, SQL, PostgreSQL, MySQL, Pandas and NumPy**, and focused on turning raw data into explainable, decision-ready insights.
 
-- 🔭 **Currently:** building end-to-end **customer analytics & ML pipelines**
+- 🔭 **Currently:** building customer analytics & ML pipelines end-to-end
 - 🧠 **I care about:** explainable ML (SHAP), clean SQL, dashboards people actually read
-- ⚡ **Range:** from **XGBoost churn prediction** to **autonomous reliability agents**
+- 🎯 **Seeking:** entry-level **Software Developer / Data Analyst** roles
+
+---
+
+## 🎓 Education
+
+**B.Tech — Artificial Intelligence & Data Science**
+Kamaraj College of Engineering & Technology · CGPA **7.72** · Graduated **2025**
+
+---
+
+## 📜 Certifications
+
+- **Introduction to Model Context Protocol** — Anthropic
+- **Google Analytics Individual Qualification** — Google
+- **Data Fundamentals** — IBM
 
 ---
 
@@ -35,35 +52,45 @@ I turn messy customer data into churn models, RFM segments, and insights that te
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaymadaeshwar&repo=aura&theme=github_dark&hide_border=true&border_radius=12&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&author_color=8B5CF6" alt="aura" />
 </a>
 
-| 📊 Customer Decision Intelligence | 🤖 AURA Mini |
+| 📊 Customer Decision Intelligence | 🤖 AURA — Autonomous Unified Reliability Agent |
 |---|---|
-| RFM segmentation, churn prediction with **XGBoost + SHAP (AUC 0.74)** across **4,312 customers** in **PostgreSQL**, insights in **Power BI** — 🔴 **[live dashboard](https://cdi-dashboard.vercel.app)** | Closed-loop autonomous reliability agent: **Observe → Detect → Diagnose → Remediate → Verify** |
+| RFM segmentation, churn prediction with **XGBoost + SHAP (AUC 0.74)** across **4,312 customers** in **PostgreSQL**, insights in **Power BI** — 🔴 **[live dashboard](https://cdi-dashboard.vercel.app)** | Closed-loop reliability system: **Observe → Detect → Diagnose → Remediate → Verify**, with root-cause analysis and telemetry verification |
+
+### 🧠 Customer Decision Intelligence Platform
+- End-to-end customer analytics: **RFM segmentation, churn prediction, customer lifetime value (CLV), cohort analysis, and revenue forecasting**
+- **XGBoost churn model** with **SHAP** explainability to surface customer-level churn drivers and risk factors
+- **Power BI** dashboards for customer KPIs, segments, churn risk, revenue trends and business insights
+
+### 🤖 AURA — Autonomous Unified Reliability Agent
+- Deterministic **root-cause analysis engine** with runbook-based remediation, telemetry verification and escalation
+- Automates the incident lifecycle: **observe, detect, diagnose, remediate, verify**
+- Real-time **telemetry dashboard** for system resilience testing
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Data & Analytics**
+**Programming & Databases**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data & Machine Learning**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Machine Learning**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-E6007A?style=for-the-badge&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-4B8BBE?style=for-the-badge&logoColor=white)
 
-**BI & Visualization**
+**Analytics & BI**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analysis](https://img.shields.io/badge/Customer_Analytics-8B5CF6?style=for-the-badge&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0EA5E9?style=for-the-badge&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![EDA & KPIs](https://img.shields.io/badge/EDA_%26_KPIs-8B5CF6?style=for-the-badge&logoColor=white)
+![Customer Analytics](https://img.shields.io/badge/Customer_Analytics-0EA5E9?style=for-the-badge&logoColor=white)
+![Cohort & Forecasting](https://img.shields.io/badge/Cohort_%26_Forecasting-6366F1?style=for-the-badge&logoColor=white)
 
 **Engineering**
 
@@ -71,8 +98,6 @@ I turn messy customer data into churn models, RFM segments, and insights that te
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -108,7 +133,7 @@ I turn messy customer data into churn models, RFM segments, and insights that te
 
 - 🚀 Shipping **Customer Decision Intelligence** — churn prediction + RFM + SHAP explainability
 - 🧪 Experimenting with AI agents (memory · voice · vision)
-- 🎯 2026 goal: grow open-source analytics work & deepen **analytics engineering**
+- 🎯 2026 goal: land a **Python Developer / Data Analyst** role and open-source more pipelines
 
 ---
 
@@ -130,8 +155,11 @@ I turn messy customer data into churn models, RFM segments, and insights that te
 
 <div align="center">
 
+[![Download Resume](https://img.shields.io/badge/Download_Resume-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/vijaymadaeshwar/vijaymadaeshwar/raw/main/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayamadaeshwar-mariappan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge)](https://vijayamadaeshwar-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-vijaymadaeshwar-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijaymadaeshwar)
+[![Email](https://img.shields.io/badge/Email-mvijayamadaeshwar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvijayamadaeshwar@gmail.com)
 
 *"Data tells the story — I make sure decision-makers can read it."*
 

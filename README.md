@@ -115,8 +115,9 @@ Kamaraj College of Engineering & Technology · CGPA **7.72** · Graduated **2025
     </td>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vijaymadaeshwar&theme=github_dark" alt="Commit Activity" /></td>
-    <td><img src="https://contrib.rocks/image?repo=vijaymadaeshwar/vijayamadaeshwar" alt="Contribution Graph" width="430" /></td>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijaymadaeshwar&theme=github_dark" alt="Contribution Overview" width="100%" />
+    </td>
   </tr>
 </table>
 </div>
